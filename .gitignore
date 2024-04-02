@@ -1,0 +1,5 @@
+# IntelliJ IDEA folder
+.idea
+
+# Mac hidden system files
+.DS_Store
